@@ -55,3 +55,14 @@ h1, h2, h3 {
 #mainLeft {
     border-right: 1px solid lightgray;
 }
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    color: rgb(55, 168, 168);
+    
+}
+section{
+    line-height: 2;
+}
